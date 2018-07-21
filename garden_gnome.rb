@@ -2,7 +2,9 @@
 
 class GardenGnome
 
-  def initialize(p)
+  def initialize
+
+  end
 
   def name=(n)
     @name = n
