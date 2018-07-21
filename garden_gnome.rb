@@ -6,4 +6,8 @@ class GardenGnome
     @name = n
   end
 
+  def name
+    @name
+  end
+
 end
