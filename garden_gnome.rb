@@ -23,11 +23,11 @@ class GardenGnome
   end
 
   def gluten_allergy=(n)
-    @gluten = n
+    @allergy = n
   end
 
   def gluten_allergy
-    @gluten_allergy
+    @allergy
   end
 
 end
