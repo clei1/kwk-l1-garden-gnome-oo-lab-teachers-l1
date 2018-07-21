@@ -30,4 +30,8 @@ class GardenGnome
     @allergy
   end
 
+  def personality
+    @personality
+  end
+
 end
