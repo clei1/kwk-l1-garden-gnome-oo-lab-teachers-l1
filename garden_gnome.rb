@@ -2,8 +2,9 @@
 
 class GardenGnome
 
-  def initialize
+  def initialize(color)
     @personality = "evil"
+    @hat_color = color
   end
 
   def name=(n)
