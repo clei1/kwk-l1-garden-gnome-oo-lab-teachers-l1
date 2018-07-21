@@ -35,4 +35,7 @@ class GardenGnome
     @personality
   end
 
+  def hat_color
+    @hat_color
+  end
 end
