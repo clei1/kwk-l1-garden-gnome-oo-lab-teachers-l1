@@ -18,4 +18,12 @@ class GardenGnome
     @age
   end
 
+  def gluten_allergy=(n)
+    @gluten = n
+  end
+
+  def gluten_allergy
+    @gluten_allergy
+  end
+
 end
