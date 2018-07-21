@@ -10,4 +10,12 @@ class GardenGnome
     @name
   end
 
+  def age=(n)
+    @age = n
+  end
+
+  def age
+    @age
+  end
+
 end
