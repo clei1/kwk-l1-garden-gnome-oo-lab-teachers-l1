@@ -47,5 +47,8 @@ class GardenGnome
     return "GNARLY!!!"
   end
 
+  def introduce_self
+    
+  end  
 
 end
