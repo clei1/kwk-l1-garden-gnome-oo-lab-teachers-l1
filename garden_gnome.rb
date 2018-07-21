@@ -44,7 +44,7 @@ class GardenGnome
   end
 
   def shout
-    return "GNARLY"
+    return "GNARLY!!!"
   end
 
 
