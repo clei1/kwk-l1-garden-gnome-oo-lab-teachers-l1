@@ -3,7 +3,7 @@
 class GardenGnome
 
   def initialize
-
+    @personality = "evil"
   end
 
   def name=(n)
